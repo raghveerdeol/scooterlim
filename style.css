@@ -1,0 +1,50 @@
+body{
+  background-image: url(background.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.container{
+  width: 1000px;
+  margin: auto;
+  background-color:  rgba(0, 0, 0, 0.5);
+  border-radius: 10px;
+  padding: 50px;
+}
+.logo{
+  width: 200px;
+  margin-left: 40%;
+}
+.logo-text{
+  font-size: 30px;
+  text-align: center;
+  color: rgb(127,255,0);
+}
+.strumenti{
+  background-color: rgb(50,255,50);
+  text-align: center;
+  padding: 10px;
+}
+main{
+  color: white;
+}
+h1{
+  display: inline;
+}
+#barra1{
+    background: orange;
+    width: 400px;
+    height: 25px;
+    border-radius: 5px;
+}
+#barra2{
+    background: green;
+    width: 700px;
+    height: 25px;
+    border-radius: 5px;
+}
+#barra3{
+    background: blue;
+    width: 200px;
+    height: 25px;
+    border-radius: 5px;
+}
